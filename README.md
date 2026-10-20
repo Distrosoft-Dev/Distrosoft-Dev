@@ -1,32 +1,43 @@
 <div align="center">
-  <h1>👋 Bienvenue dans le labo de DistroSoft</h1>
-  <p><i>Explorons ensemble la Tech, la Cybersécurité, l'IA et bien plus...</i></p>
+
+# DistroSoft
+
+`status: early` · `focus: cyber`
+
+La tech, la cybersécurité et l'IA, sans le jargon qui ferme la porte.  
+Le labo est ouvert. Il est encore presque vide. C'est assumé.
+
+[distrosoft.fr](https://distrosoft.fr) · [tous les liens](https://links.distrosoft.fr)
+
 </div>
 
 ---
 
-## 🚀 À propos de ce GitHub
+DistroSoft, c'est un labo personnel. Comprendre les sujets numériques en les décortiquant, puis partager seulement ce qui est assez solide pour servir à quelqu'un d'autre.
 
-Passionné par le monde du numérique depuis plusieurs anénes. J'ai créé **DistroSoft** avec une mission simple : **casser les barrières techniques**. 
+Que tu découvres ou que tu pratiques déjà, tu ne trouveras pas un catalogue. Tu trouveras ce qui est prêt. Le reste arrivera avec le temps.
 
-Que vous soyez collégien, expert en cybersécurité, ou juste curieux, ce "laboratoire" regroupe pleins d'outils open-source concrets. Ici, on apprend en faisant (et en partageant) !
+## Maintenant
 
-**PS:** Pour le moment, le projet est à son commencement ; les outils vont arriver progressivement. 🙃
+**[Argus CVE](https://github.com/Distrosoft-Dev/Argus_CVE)**  
+Recherche dans la NVD du NIST, recoupée avec le catalogue KEV de la CISA.  
+Première version : voir ce qui est vraiment exploité, pas une suite de threat intel.
+
+## Ce qui va venir
+
+Les prochains outils restent en local tant qu'ils ne méritent pas d'être clonés. La ligne, elle, est déjà là.
+
+- **Cyber et vie privée.** Les risques du quotidien, sans devenir parano.
+- **IA.** Ce que ça fait vraiment, et quand s'en servir.
+- **OSINT.** Ce qui est public, comment on le retrouve, et comment on s'en protège.
+- **Guides.** Des mémos courts, le jour où j'ai mieux qu'une liste de liens.
+
+Pas de date. Quand c'est bon, ça atterrit ici.
 
 ---
 
-## 🛠️ Ce que vous trouverez ici
+<div align="center">
 
-Ce Github comportera des projets utile pour la vie quotidienne dans différentes thématiques tels que:
+`root@distrosoft:~# on construit lentement`
 
-*   🛡️ **Cybersécurité & OPSEC (Protection de la vie privée) :** Des outils et méthodes simples pour comprendre les menaces du quotidien et appréhender les risques numériques, sans devenir paranoïaque.
-*   🧠 **Intelligence Artificielle & Automatisation :** L'objectif est simple : comprendre et savoir utiliser l'IA de manière approfondie et intelligente.
-*   🔍 **OSINT (Renseignement en source ouverte) :** Des projets pour comprendre quelles informations circulent publiquement sur Internet, comment les trouver, et surtout... comment s'en protéger.
-*   📚 **Ressources & Guides d'Apprentissage :** Des parcours pas à pas (roadmaps) pour débuter en cyber, des fiches mémo (cheatsheets) pour la pratique, et des sélections des meilleurs liens GitHub pour vous faire gagner un temps précieux.
-
----
-
-## 🌟 Projet à la une
-
-> **[Argus_CVE](https://github.com/Distrosoft-Dev/Argus_CVE)**
-> Argus CVE est un outil de recherche et d'analyse des vulnérabilités, principalement conçu pour les chercheurs en sécurité. Il offre un accès en temps réel à la base de données nationale sur les vulnérabilités (NVD) du NIST et met en corrélation les résultats avec le catalogue KEV de la CISA afin de mettre en évidence les menaces activement exploitées dans la nature. Le projet est encore dans ses premières versions et va être grandement amélioré.
+</div>
